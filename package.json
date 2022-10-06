@@ -25,7 +25,7 @@
     "@types/passport": "^1.0.4",
     "@types/request-promise": "^4.1.46",
     "@types/swagger-jsdoc": "^3.0.2",
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
